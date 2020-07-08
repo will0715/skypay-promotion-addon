@@ -1,0 +1,7 @@
+content skypay_promotion chrome/content/ xpcnativewrappers=no
+skin skypay_promotion traditional-800x600/1.0 chrome/skin/traditional/
+skin skypay_promotion traditional-1024x768/1.0 chrome/skin/traditional/
+locale skypay_promotion en chrome/locale/en/
+locale skypay_promotion zh-TW chrome/locale/zh-TW/
+locale skypay_promotion zh-CN chrome/locale/zh-CN/
+overlay chrome://vivipos/content/mainUIOverlay.xul chrome://skypay_promotion/content/overlay.xul

@@ -1,0 +1,9 @@
+<!ENTITY SkypayPromotion.backspace "刪除">
+<!ENTITY SkypayPromotion.clear "清空">
+<!ENTITY SkypayPromotion.submit "送出">
+<!ENTITY SkypayPromotion.accept "送出">
+<!ENTITY SkypayPromotion.exit "離開">
+
+<!ENTITY SkypayPromotion.title "使用折價劵">
+<!ENTITY SkypayPromotion.message "請輸入折價券代碼">
+<!ENTITY SkypayPromotion.code "折價券代碼">

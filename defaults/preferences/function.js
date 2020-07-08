@@ -1,0 +1,24 @@
+pref(
+    'vivipos.fec.registry.function.programmable.skypay_promotion_coupon.access',
+    ''
+);
+pref(
+    'vivipos.fec.registry.function.programmable.skypay_promotion_coupon.command',
+    'couponDialog'
+);
+pref(
+    'vivipos.fec.registry.function.programmable.skypay_promotion_coupon.controller',
+    'SkypayPromotionMain'
+);
+pref(
+    'vivipos.fec.registry.function.programmable.skypay_promotion_coupon.data',
+    ''
+);
+pref(
+    'vivipos.fec.registry.function.programmable.skypay_promotion_coupon.version',
+    '1.0.0.0'
+);
+pref(
+    'vivipos.fec.registry.function.programmable.skypay_promotion_coupon.name',
+    'Skypay Promotion Coupon'
+);

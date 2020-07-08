@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<irc xmlns="http://www.vivipos.com.tw/2010/irc-syntax-ns#">
+   <module name="skypay_promotion" reboot="true">
+        <action>
+            <type>file</type>
+            <file>/data/profile/extensions/skypay_promotion@vivicloud.net/*</file>
+        </action>  
+    </module>
+   <module name="skypay_promotion_setting" reboot="true">
+        <action>
+            <type>pref</type>
+            <key>vivipos.fec.settings.skypay_promotion.check-device</key>
+        </action>  
+        <action>
+            <type>pref</type>
+            <key>vivipos.fec.settings.skypay_promotion.formula-template</key>
+        </action> 
+        <action>
+            <type>pref</type>
+            <key>vivipos.fec.settings.skypay_promotion.auto_print</key>
+        </action> 
+        <action>
+            <type>pref</type>
+            <key>vivipos.fec.settings.skypay_promotion.round-type</key>
+        </action> 
+        <action>
+            <type>pref</type>
+            <key>vivipos.fec.settings.skypay_promotion.round-decimal</key>
+        </action> 
+    </module>
+</irc>    
+    

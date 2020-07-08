@@ -1,0 +1,9 @@
+<!ENTITY SkypayPromotion.backspace "Backspace">
+<!ENTITY SkypayPromotion.clear "Clear">
+<!ENTITY SkypayPromotion.submit "Submit">
+<!ENTITY SkypayPromotion.accept "Accept">
+<!ENTITY SkypayPromotion.exit "Exit">
+
+<!ENTITY SkypayPromotion.title "Use Coupon">
+<!ENTITY SkypayPromotion.message "Please input coupon code">
+<!ENTITY SkypayPromotion.code "Coupon Code">
